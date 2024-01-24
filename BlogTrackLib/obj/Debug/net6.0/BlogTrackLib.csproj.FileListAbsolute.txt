@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\bin\Debug\net6.0\BlogTrackLib.deps.json
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\bin\Debug\net6.0\BlogTrackLib.dll
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\bin\Debug\net6.0\BlogTrackLib.pdb
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.AssemblyInfo.cs
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.dll
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\refint\BlogTrackLib.dll
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.pdb
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\ref\BlogTrackLib.dll
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\bin\Debug\net6.0\BlogTrackLib.runtimeconfig.json
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.csproj.AssemblyReference.cache
+C:\Mphasis\Simplilearn\Phase4\project\BlogTrackLib\BlogTrackLib\obj\Debug\net6.0\BlogTrackLib.genruntimeconfig.cache

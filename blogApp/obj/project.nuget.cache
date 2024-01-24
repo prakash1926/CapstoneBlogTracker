@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTx7lt2rebDR1DM9RpxodsvVqNIBQcquCWFH9a29NAZR5xbEYQp52naf5BxIHqkIA0rhH/TAoyCT0DUny0jDGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Mphasis\\Simplilearn\\Phase4\\project\\BlogTrackLib\\blogApp\\BlogApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anant\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
